@@ -3,7 +3,7 @@ class Remote < Formula
   homepage "https://github.com/wellcometrust/remote/"
   url "https://github.com/wellcometrust/remote/tarball/master"
   version "0.1"
-  sha256 "95b894f0a3d697188e40bdf40437f6cd15be0f8b21f419f104461abd8f842c71"
+  sha256 "5b798b660e8d5264551e6d3f54b4124630d17fb71081f315f3c777d060541ca0"
 
   def install
     bin.install "remote"
