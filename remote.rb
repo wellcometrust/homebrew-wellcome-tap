@@ -1,9 +1,9 @@
 class Remote < Formula
   desc "CLI to connect to AWS instances"
   homepage "https://github.com/wellcometrust/remote/"
-  url "https://github.com/wellcometrust/remote/tarball/63ad2f36a6ea53ebdec3c2b2f85e139809603335"
-  version "0.7"
-  sha256 "cc344bd19d53d6404377816b4736dcfc778c3e92d1064133b0313770768ce024"
+  url "https://github.com/wellcometrust/remote/tarball/918e3eaef564d3726138dfa721c6d6de28ed03b8"
+  version "0.8"
+  sha256 "7400b242212378798a779555f168dfbf4abd3bca5bed453fff5667567fc900aa"
 
   depends_on "awscli"
   
