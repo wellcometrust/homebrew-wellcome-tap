@@ -6,7 +6,8 @@ class Remote < Formula
   sha256 "7400b242212378798a779555f168dfbf4abd3bca5bed453fff5667567fc900aa"
 
   depends_on "awscli"
-  
+  depends_on "jq"
+
   def install
     bin.install "remote"
   end
